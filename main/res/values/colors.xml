@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimarysecond">#00c1ad</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#005023</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="blacktrans">#d4000000</color>
+    <color name="colorGraydark">#808080</color>
+    <color name="blacktransheader">#8f000000</color>
+    <color name="colorTintblack">#3b3b3b</color>
+    <color name="colorblack">#000</color>
+    <color name="colorfacebook">#415EAE</color>
+    <color name="colorGoogle">#BF4434</color>
+    <color name="colorletterconnect">#1865F1</color>
+    <color name="colordividerdecoration">#9e9e9e</color>
+    <color name="colorGray">#f2f2f2</color>
+    <color name="light_iron">#EEEEEE</color>
+
+
+
+
+
+
+    <array name="colors" tools:ignore="MissingDefaultResource">
+        <item name="all" type="color">#827f93</item>
+        <item name="design" type="color">#c467f4</item>
+        <item name="ios" type="color">#3b9aee</item>
+        <item name="android" type="color">#9bc53d</item>
+        <item name="web" type="color">#f4a261</item>
+        <item name="business" type="color">#1ed2bb</item>
+        <item name="research" type="color">#778da9</item>
+        <item name="sales" type="color">#20bf55</item>
+        <item name="quality" type="color">#9f9fed</item>
+        <item name="customer" type="color">#fc6177</item>
+        <item name="other" type="color">#bcbcbc</item>
+    </array>
+
+    <color name="divider">#b2b6c6</color>
+</resources>

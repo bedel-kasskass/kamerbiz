@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">KamerBiz</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="collapse_text_label">moins afficher</string>
+    <string name="expand_text_label">tout afficher</string>
+
+
+
+    <string name="str_all_selected">All categories</string>
+
+    <string-array name="job_titles">
+        <item>ALL CATEGORIES</item>
+        <item>AGRICULTURE/ELEVAGE/PECHE</item>
+        <item>GOUVERNEMENT/ASSOCIATIONS/ONG</item>
+        <item>BATIMENTS ET TRAVAUX PUBLIQUES</item>
+        <item>SANTE</item>
+        <item>HOTELS/RESTAURANTS/CAFES</item>
+        <item>INFORMATION/COMMUNICATION</item>
+        <item>MEDIA ET PUBLICITES</item>
+        <item>DETENTE ET LOISIR</item>
+        <item>IMMOBILIER</item>
+        <item>OTHER</item>
+    </string-array>
+
+
+    <!-- Firebase messages -->
+    <string name="auth_failed">Failed to Authenticate</string>
+    <string name="auth_success">Authentication Success</string>
+
+    <!-- Firebase database fields -->
+    <string name="dbname_users">users</string>
+    <string name="dbname_user_account_settings">user_account_settings</string>
+    <string name="field_username">username</string>
+
+    <!-- PHP database fields -->
+    <string name="server_base_url">http://192.168.244.57:82/</string>
+    <string name="shared_preferences_file_name">KHANACADEMYPreferences</string>
+    <string name="message">Kamerbiz va envoyez un SMS(des frais d\'operateur peuvent etre appliquées) pour verifier votre numero de téléphone saisissez votre indicatif de pays et numero de telephone</string>
+    <string name="enter_phone_hint">+237 6 99 99 99 99</string>
+    <string name="enter_verify_code">--- ---</string>
+    <string name="enter_verify_code_txt">Saisissez le code à 6 chiffres</string>
+    <string name="start_phone_auth">Continuer</string>
+    <string name="verify_phone_auth">verifier</string>
+    <string name="enter_verify_ressent_code">Renvoyer le SMS</string>
+    <string name="enter_verify_call_developper">Envoyez une requete a l\'administrateur</string>
+    <string name="enter_verify_code_header">En attente de detection automatique d\'un SMS envoyé au</string>
+    <string name="wrong_number">Numero incorret ?</string>
+    <string name="send_comment_button_label">ENVOYEZ</string>
+    <string name="comment_hint">Saisissez votre commentaire</string>
+
+
+    <string name="duration_minutes_shortest">%1$d min</string>
+    <string name="duration_hours_shortest">%1$d heurs</string>
+    <string name="duration_days_shortest">%1$d jours</string>
+    <string name="duration_week_shortest">%1$d semaines</string>
+    <string name="now_time_range">maintenant</string>
+
+</resources>
